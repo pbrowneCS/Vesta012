@@ -1,0 +1,18 @@
+# Python virtual environment
+backend/venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# FastAPI conversation history
+backend/data/history.json
+
+# Environment variables
+.env
+
+# IDE and editor files
+.idea/
+*.swp
